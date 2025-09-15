@@ -231,3 +231,8 @@ Final notes & personalised encouragement
 Sabaz — you already have the right focus. Prioritize hands-on practice, clear documentation, and legal/ethical behavior. Keep a learning log (short daily notes) and every month publish one polished writeup. That public record will make you stand out in Pakistan’s growing cybersec scene.
 
 If you want, I can:
+
+
+<img width="768" height="1344" alt="Generated Image September 15, 2025 - 4_06AM" src="https://github.com/user-attachments/assets/d8b13343-a9fa-4d7f-8828-98b44d9d77ef" />
+
+
